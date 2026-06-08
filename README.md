@@ -4,6 +4,11 @@ An intelligent, client-side, real-time adaptive user interface engine designed t
 
 ---
 
+### 👤 Author & Trademark
+This project is designed, created, and maintained by **Vineet M Dharwad** (VINEET M DHARWAD ™).
+
+---
+
 ## 🚀 Overview
 
 Static user interfaces assume standard motor skills and device precision. For users experiencing physical tremors, muscle fatigue, or motor control challenges, clicking typical-sized buttons can be difficult and frustrating.
@@ -49,6 +54,7 @@ Neuro-Adaptive-Engine/
 ├── index.html            # Entry HTML file
 ├── package.json          # Dependency and script manager
 ├── vite.config.js        # Vite configuration
+├── LICENSE               # MIT License file
 └── src/
     ├── main.jsx          # React app mount with NeuroProvider
     ├── App.jsx           # Main layout displaying adaptive components
@@ -160,3 +166,13 @@ export default function NeuroButton() {
    * Open the app in your browser.
    * Shake your mouse cursor rapidly to simulate motor-impairment/tremor telemetry.
    * Watch the Struggle Score increase and the action button dynamically expand to assist in selection.
+
+---
+
+## 📄 License & Trademark
+
+This project is created and maintained by **Vineet M Dharwad** (VINEET M DHARWAD ™).
+
+Licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 Vineet M Dharwad
